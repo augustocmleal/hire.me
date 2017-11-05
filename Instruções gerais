@@ -1,0 +1,17 @@
+# Instruções Gerais
+
+## Chamadas a api:
+Short: ...servidor.../shorten?url=www.bemobi.com.br&alias=bemobi
+Retrieve: ...servidor.../retrieve?shortUrl=http://stnr.bmb/bemobi
+
+## Bonus Points
+## Endpoint que mostre as dez *URL's* mais acessadas 
+Os 10 mais acessados: ...servidor.../more-accessed
+Especificando o numero de registros: ...servidor.../more-accessed?quantity=X
+
+## Client
+https://github.com/augustocmleal/angularjs-client-for-shortener
+
+## Diagramas
+Retrieve: https://goo.gl/xCjDS9
+Shorten: https://goo.gl/uDSYAr
